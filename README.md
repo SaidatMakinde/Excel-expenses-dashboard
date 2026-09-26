@@ -31,7 +31,7 @@ This dashboard addresses these questions by presenting the information in a visu
 
 ## Dashboard Preview
 
-![Expenses Dashboard](Images/expenses-dashboard.png)
+![Expenses Dashboard](pictures/expenses-dashboard.png)
 
 ---
 
